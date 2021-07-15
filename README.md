@@ -1,2 +1,2 @@
 # planning
-2021 Sirius RAAI Summer School - Planning
+Lab 5 - Path Planning In the Environments with Dynamic Obstacles
