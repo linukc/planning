@@ -1,3 +1,3 @@
 # planning
-2021 Sirius RAAI Summer School - Planning  
-Materials are from the MIPT master course.
+:heavy_check_mark: Lab 2 - Path Planning On a Grid with Velocity/Orientation  
+[Nbviewer](https://nbviewer.jupyter.org/github/linukc/planning/blob/lab2/Lab2/Lab2.ipynb)
